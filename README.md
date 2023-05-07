@@ -5,7 +5,7 @@
 
 🤝 I’m looking to collaborate on **projects with other aspiring engineers**
 
-🌱 I’m currently learning with **Codecademy's Front End Engineer Career Path**
+🌱 I’m currently learning with **Codecademy**
 
 📫 You can reach me at: **maryemmabrooks@gmail.com**
 
