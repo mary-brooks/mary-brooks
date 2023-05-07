@@ -1,5 +1,5 @@
 # Hi 👋 I'm Mary Brooks
-### Front End Engineer in training 🛠️
+### Full Stack Engineer in training 🛠️
 
 📌 I'm located in **Lisbon, PT**
 
